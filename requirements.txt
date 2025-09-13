@@ -1,0 +1,2 @@
+Download pillow repository in python before using it
+Also you need to write the crypto in the following format: BTC-USDT (it needs - to work)
